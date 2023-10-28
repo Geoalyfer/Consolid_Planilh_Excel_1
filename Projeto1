@@ -1,0 +1,11 @@
+Consolidando arquivos Excel:
+A partir de diversos relatórios com informações sobre as vendas ocorridas. 
+Consolidar todos os dados em uma unica planilha e enviar por e-mail.
+Consolidar os arquivos sem comprometer a informação.
+
+Dicas:
+Nunca começe a escrever código sem entedner o que precisa ser resolvido!
+Faça uma análise exploratória inicial para entender com que dados você está trabalhando.
+Busque informações além das que foram passadas para você por e-mail!
+Faça um esboço de como voce resolveria o problema.
+Agora sim, vá resolver o problema com o Python!
